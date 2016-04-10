@@ -2,7 +2,7 @@
 ![Docker logo](https://secure.gravatar.com/avatar/26da7b36ff8bb5db4211400358dc7c4e.jpg?s=128&r=g&d=mm)
 
 ## What is Docker?
-[Docker](http://www.docker.com) is an open-source software that allows users to deploy software in discrete, lightweight runtime environments, called “containers.” Essentially, it means that any software can be containerized with its own unique library requirements and dependencies and deployed on any infrastructure that supports Docker. This includes your laptop, computing clusters, and cloud platforms such as Seven Bridges. Using Docker ensures that your tools will run on Seven Bridges, no matter what format or language they're in.
+[Docker](http://www.docker.com) is an open-source software that allows users to deploy software in discrete, lightweight runtime environments, called “containers.” Essentially, it means that any software can be containerized with its own unique requirements/dependencies and deployed on any infrastructure that supports Docker. This includes your laptop, certain computing clusters, and cloud platforms such as Seven Bridges. Using Docker makes your code portable -- easily sharable with others and runnable in many places. 
 
 ## Getting Started
 Try walking through the steps outlined below. In sum, they will give you an **excellent understanding** of Docker through hands-on experience.
